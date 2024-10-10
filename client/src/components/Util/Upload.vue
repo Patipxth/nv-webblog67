@@ -38,7 +38,7 @@ const STATUS_INITIAL = 0,
 export default {
   data() {
     return {
-      BASE_URL: "http://localhost:8081/assets/uploads/",
+      BASE_URL: "http://localhost:8080/assets/uploads/",
       error: null,
       // uploadedFiles: [],
       uploadError: null,
